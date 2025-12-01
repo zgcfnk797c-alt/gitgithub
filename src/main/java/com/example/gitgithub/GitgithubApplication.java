@@ -10,6 +10,7 @@ public class GitgithubApplication {
 		SpringApplication.run(GitgithubApplication.class, args);
 		file1 file = new file1();
 		System.out.println(file.getMessage());
+		
 	}
 
 }
