@@ -5,6 +5,7 @@ public class file1 {
     private String author = "Mohamed Yassine Derbel";
     private String version = "1.0.0"; 
 
+    private String description = "Formation Git"; 
 
     public String getMessage() {
         return message;
